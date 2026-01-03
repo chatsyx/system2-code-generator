@@ -1,4 +1,3 @@
-num1 = 5
-num2 = 3
-result = num1 - num2
-print(result)
+my_list = [1, 2, 3, 4, 2, 5, 6]
+unique_list = list(set(my_list))
+print(unique_list)
